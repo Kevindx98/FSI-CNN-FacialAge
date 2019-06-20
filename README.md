@@ -7,5 +7,5 @@
 
 **All the Project Information + Code** can be found in ***Facial_Age.ipynb*.**
 
-<img src=./example.png />
+<img src= "./Example.png" />
 
